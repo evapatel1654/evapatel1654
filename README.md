@@ -57,18 +57,18 @@ Hi! I'm Eva Patel, a **final-year Computer Science and Engineering student at Ni
 
 ## 🔥 Notable Projects  
 
-### **1️⃣ [Educational Multilingual Chatbot](https://github.com/yourrepo)**  
+### **1️⃣ [Educational Multilingual Chatbot](https://github.com/evapatel1654/Educationl_Chatbot)**  
 🤖 Built a **multilingual chatbot** to assist students with the Gujarat college admission process.  
 🔹 Technologies: **FastAPI, LangChain, Hugging Face, RAG, NLP**  
 
-### **2️⃣ [Vaccine Request Management System](https://github.com/yourrepo)**  
+### **2️⃣ [Vaccine Request Management System](https://github.com/evapatel1654/Vaccine-Management-System-Using-PHP)**  
 💉 Developed a **PHP & MySQL-based vaccine tracking system** for **efficient vaccine distribution and appointment booking**.  
 
 ### **3️⃣ [Smart Home Blockchain Project](https://github.com/yourrepo)**  
 🏡 Designed a **Web3-based smart home system** for **automating home appliances using Ethereum smart contracts**.  
 🔹 Technologies: **Solidity, Truffle, Web3.js**  
 
-### **4️⃣ [AI-Powered OCR System](https://github.com/yourrepo)**  
+### **4️⃣ [AI-Powered OCR System](https://github.com/evapatel1654/OCR-Text-Detection-App)**  
 📄 Created an **OCR pipeline** to extract text from **images and PDFs** using **Tesseract and deep learning**.  
 
 ---
