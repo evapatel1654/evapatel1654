@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Eva Patel</h1>
 
 <p align="center">
-  🚀 AI/ML Enthusiast | Blockchain Developer | Web Developer | Problem Solver  
+  🚀 AI/ML Enthusiast | Backend Developer | Web Developer | Problem Solver  
   🎓 Final-year B.Tech CSE student at Nirma University | Aspiring AI/ML Engineer  
   🌍 Based in India, planning to return to the USA after my studies  
 </p>
