@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me  
 
-Hi! I'm Eva Patel, a **final-year Computer Science and Engineering student at Nirma University** with a deep interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+Hi! I'm Eva Patel, a **Recent Graduate of Btech in Computer Science and Engineering student from Nirma University** with a deep interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
 🔹 I’ve worked on **AI-powered chatbots**, **OCR-based systems**, and **live web applications** using a range of technologies like Python, LangChain, Hugging Face, TensorFlow, PHP, and JavaScript.
 
