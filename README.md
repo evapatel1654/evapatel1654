@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 AI/ML Enthusiast | Backend & Web Developer | Problem Solver  
-  🎓 Final-year B.Tech CSE student at Nirma University | Aspiring AI/ML Engineer  
+  🎓 Recent Graduate from Nirma University in BTech. CSE| Aspiring AI/ML Engineer  
   🌍 Based in the USA, currently completing studies in India  
 </p>
 
