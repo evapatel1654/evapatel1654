@@ -1,82 +1,106 @@
 <h1 align="center">Hello! 👋 I'm Eva Patel</h1>
 
 <p align="center">
-  🚀 AI/ML Enthusiast | Full-Stack and AI Developer | Problem Solver  
-  🎓 Recent Graduate from Nirma University in BTech. CSE| Aspiring AI/ML Engineer  
-  🌍 Based in the USA, currently completing studies in India  
+  💡 AI/ML Engineer | Full-Stack Developer | Research Enthusiast  
+  🎓 B.Tech in CSE from Nirma University | Based in USA, currently in India  
 </p>
 
 ---
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me
 
-Hi! I'm Eva Patel, a **Recent Graduate of Btech in Computer Science and Engineering student from Nirma University** with a deep interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
+Hi! I'm Eva Patel — a **B.Tech graduate in Computer Science and Engineering from Nirma University**, with a strong focus on **Artificial Intelligence, Machine Learning, and Full-Stack Web Development**.
 
-🔹 I’ve worked on **AI-powered chatbots**, **OCR-based systems**, and **live web applications** using a range of technologies like Python, LangChain, Hugging Face, TensorFlow, PHP, and JavaScript.
+🔹 I specialize in **multimodal AI**, including **OCR**, **document Q&A**, **vision-language models (VLMs)**, and **LLM-powered applications**.
 
-🔹 I've built a **live website for a dental clinic** that's indexed on Google Search: [Nij Dental Clinic](https://evapatel1654.github.io/Nij-Dental-Clinic/)
+🔹 Practical experience from **3 internships**, where I built **AI-integrated backend modules**, **chatbots**, and **web apps** using Python, PHP, and REST APIs.
 
-🔹 Contributed to **five real-world projects** during my internships, including AI functionality for websites and backend automation.
+🔹 Passionate about scalable AI infrastructure and visual-language integration for real-world applications.
 
-🔹 I co-authored a research paper on **Remote Sensing for Land Use and Land Cover**, which is currently under review.
-
-🔹 I enjoy tackling real-world problems and thrive in fast-paced, innovation-driven environments.
+🔹 Co-author of a research paper on **Remote Sensing & Land Use**, currently under peer review.
 
 ---
 
-## 🛠 Skills & Technologies  
+## 🧠 Core Skills & Technologies
 
-### 💻 Programming Languages  
+### 🔍 AI/ML & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
-### 📡 Backend & Frameworks  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
-### 🛢️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### 🤖 AI & Machine Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-F6D71D?style=for-the-badge&logo=huggingface)
 ![LangChain](https://img.shields.io/badge/LangChain-005F8D?style=for-the-badge)
 
+**Expertise:**  
+LLMs, OCR, VQA, NLP, Document Intelligence, Multimodal AI, Vision-Language Models, Generative AI
+
+### 🌐 Web & Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+
+### 🛢 Databases & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+
 ---
 
-## 🔥 Notable Projects  
-
-### 🦷 [Nij Dental Clinic Website](https://evapatel1654.github.io/Nij-Dental-Clinic/)  
-🌐 A fully responsive, SEO-friendly website built for a real dental clinic. Live on Google Search.
+## 🚀 Projects & Research
 
 ### 🤖 [Educational Multilingual Chatbot](https://github.com/evapatel1654/Educationl_Chatbot)  
-Built a LangChain-powered chatbot to answer student queries in multiple languages.
+Built with LangChain & Hugging Face to handle multilingual student queries in an educational domain.
 
 ### 📄 [OCR Text Detection App](https://github.com/evapatel1654/OCR-Text-Detection-App)  
-Extracts text from images/PDFs using Python, Tesseract, and Streamlit.
+Multi-language OCR tool (English & Gujarati) using Pytesseract, built with Streamlit for rapid deployment.
+
+### 🧠 [Chat with Scientific PDFs](https://github.com/evapatel1654/Chat_with_Scientific_Document)
+Built a document Q&A system for parsing unstructured research PDFs using transformer-based retrieval.
+
+### 📊 [Marketing Techniques Using Segmentation](https://github.com/evapatel1654/Marketing_Techniques_Using_Customer_Segmentation)  
+Suggest Marketing Techniques on business data using machine learning methods.
 
 ### 💉 [Vaccination Management System](https://github.com/evapatel1654/Vaccine-Management-System-Using-PHP)  
-PHP-based web app for managing appointments and vaccine tracking.
+Robust PHP-MySQL platform for appointment scheduling and vaccine tracking.
+
+### 🦷 [Nij Dental Clinic Website](https://evapatel1654.github.io/Nij-Dental-Clinic/)  
+SEO-optimized live website for a dental clinic, built and deployed on GitHub Pages.
 
 ---
 
-## 🏆 Achievements & Involvement  
+## 💼 Professional Experience
 
-- Finalist at **New India Vibrant Hackathon 2023**  
-- Co-authored research paper on **Remote Sensing & LULC**  
-- Team lead and multiple-time champion in **volleyball tournaments**  
-- Event Head for institute's flagship tech fest  
-- Member of GDSC Web/Mobile App team
+**Trainee Backend Developer** — *Intesols Intelligent Solutions*  
+📍 Ahmedabad, India | Jan 2025 – Present  
+• Integrated AI modules with CMS platforms (WordPress/Shopify)  
+• Automated backend operations using Python and REST APIs
+
+**PHP Developer Intern** — *Renav Technologies*  
+📍 Ahmedabad, India | Jun 2024 – Jul 2024  
+• Built AJAX-powered modules and implemented backend logic using PHP and MySQL  
+• Integrated external APIs for vaccine and user data tracking
+
+**Web Developer Intern** — *Immensphere*  
+📍 Bengaluru, India | May 2023 – Jun 2023  
+• Developed responsive UIs and improved performance with JavaScript and jQuery
 
 ---
 
-## 📫 Connect with Me  
+## 🏆 Achievements
+
+- 🥈 Finalist – **New India Vibrant Hackathon 2023**
+- 🧪 Co-author – **Research Paper on Remote Sensing & LULC** (under review)
+- 🥇 Winner – **Institute Volleyball Championships** (Vice Captain)
+- 🎓 Event Head – Institute Technical Fest
+- 👩‍💻 Team Member – **Google Developer Student Clubs (GDSC)**
+
+---
+
+## 📫 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eva-patel-1533b4260/">
@@ -92,7 +116,6 @@ PHP-based web app for managing appointments and vaccine tracking.
 
 ---
 
-🌱 **Currently exploring:** LLM-based Applications, AI-powered Automation, and Real-world NLP Tools  
-⚡ **Fun fact:** I balance my love for tech with a strong competitive spirit in sports!
+🌱 **Currently Exploring:** Foundation Model Fine-tuning, VLMs, and Real-world Deployment of LLM Applications  
+⚡ **Fun Fact:** I code like a machine and spike like an athlete — volleyball keeps my brain balanced!
 
----
