@@ -2,7 +2,7 @@
 
 <p align="center">
   💡 AI/ML Engineer | Full-Stack Developer | Research Enthusiast  
-  🎓 B.Tech in CSE from Nirma University | Based in USA, currently in India  
+  🎓 B.Tech in CSE from Nirma University | Based in USA
 </p>
 
 ---
